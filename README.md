@@ -1,2 +1,3 @@
-# opensource-investigation
-Open-source investigations : using Internet for citizen journalism
+# Opensource Investigation
+
+Introduction about tools and methods for open-source investigation
